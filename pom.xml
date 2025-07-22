@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>21</java.version>
-		<version.vaadin>24.8.3</version.vaadin>
+		<version.vaadin>24.8.4</version.vaadin>
 	</properties>
 
 	<dependencies>
